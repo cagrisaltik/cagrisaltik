@@ -1,6 +1,6 @@
 ### Merhabalar 👋
 
-<script src="https://tryhackme.com/badge/514283"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/cagrisalitk.png" alt="TryHackMe">
 
 <!--
 **cagrisaltik/cagrisaltik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
