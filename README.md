@@ -1,6 +1,3 @@
-### Merhabalar 👋
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/cagrisalitk.png" alt="TryHackMe">
 
 # 💫 About Me:
 I'm Currently Working in DorukNet<br><br>24yo Cyber Security Student & Junior Software Developer<br>
@@ -23,3 +20,8 @@ I'm Currently Working in DorukNet<br><br>24yo Cyber Security Student & Junior So
 [![](https://visitcount.itsvg.in/api?id=cagrisaltik&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## TryHackme Profile
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/cagrisalitk.png" alt="TryHackMe">
+
