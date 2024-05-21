@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-I'm Currently Working in DorukNet<br><br>24yo Cyber Security Student & Junior Software Developer<br>
+I'm Currently Working in DorukNet<br><br>25yo Cyber Security Student & Junior Software Developer<br>
 
 
 ## 🌐 Socials:
