@@ -148,6 +148,6 @@ Explore my repositories, follow my progress, and feel free to connect through Gi
 
 **Build. Secure. Improve. Repeat.**
 
-[![Web Site](https://img.shields.io/badge/Visit%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://cagrisaltik.com.tr)
+[![Visit My Website](https://img.shields.io/badge/Visit%20My%20Website-181717?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cagrisaltik.com.tr/)
 
 </div>
