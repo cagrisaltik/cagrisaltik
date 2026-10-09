@@ -149,5 +149,8 @@ Explore my repositories, follow my progress, and feel free to connect through Gi
 **Build. Secure. Improve. Repeat.**
 
 [![Visit My Website](https://img.shields.io/badge/Visit%20My%20Website-181717?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cagrisaltik.com.tr/)
+[![Website](https://img.shields.io/badge/WEBSITE-cagrisaltik.com.tr-181717?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cagrisaltik.com.tr/)
+[![Personal Website](https://img.shields.io/badge/Personal%20Website-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://cagrisaltik.com.tr/)
+[![Security Research](https://img.shields.io/badge/Explore-Security%20Research-0A7B83?style=for-the-badge&logo=hackthebox&logoColor=white)](https://cagrisaltik.com.tr/)
 
 </div>
