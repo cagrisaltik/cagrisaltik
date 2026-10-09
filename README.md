@@ -1,27 +1,160 @@
+ <div align="center">
 
-# 💫 About Me:
-I'm Currently Working in DorukNet<br><br>26yo Cyber Security Student & Junior Software Developer<br>
+# Çağrı Saltık
 
+### Cybersecurity · Software Engineering · Systems & Infrastructure
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cagrisaltik) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cagrisaltik) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/cagrisaltik) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/cagrisaltik0) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@cagrisaltik) 
+Building security-focused software, exploring system internals, and engineering practical solutions to real-world technical problems.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=cagrisaltik&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=cagrisaltik&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cagrisaltik&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![GitHub](https://img.shields.io/badge/GitHub-cagrisaltik-181717?style=for-the-badge&logo=github)](https://github.com/cagrisaltik)
+[![Security](https://img.shields.io/badge/Focus-Cybersecurity-167DAD?style=for-the-badge&logo=kalilinux&logoColor=white)](https://github.com/cagrisaltik?tab=repositories)
+[![Development](https://img.shields.io/badge/Focus-Software%20Engineering-34495E?style=for-the-badge&logo=go&logoColor=white)](https://github.com/cagrisaltik?tab=repositories)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=cagrisaltik&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=cagrisaltik&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## `$ whoami`
 
-## TryHackme Profile
+I'm a technology enthusiast and software developer focused on **cybersecurity, backend engineering, infrastructure, and system administration**.
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/cagrisalitk.png" alt="TryHackMe">
+My interests lie at the intersection of secure software development and practical IT operations. I enjoy understanding how systems work under the hood, identifying weaknesses, automating repetitive tasks, and building tools that solve real technical problems.
 
+Rather than focusing exclusively on theory, I prefer learning through hands-on projects, security labs, experimentation, and continuous improvement.
+
+- 🔐 **Cybersecurity:** Security research, CTF challenges, defensive security, and secure system design.
+- ⚙️ **Software Engineering:** Backend development, APIs, distributed agents, and automation.
+- 🛡️ **Infrastructure:** Linux, networking, system administration, and secure communications.
+- 🧪 **Continuous Learning:** Hands-on security labs, reverse engineering fundamentals, and technical experimentation.
+
+My goal is to build software that is not only functional, but also maintainable, reliable, and designed with security in mind.
+
+## `$ ls ./featured-projects`
+
+### 🛡️ Sentinel System
+
+**Security Monitoring & Agent Management Platform**
+
+A self-hosted security-focused project built around centralized management and distributed agents.
+
+The project explores how a central control plane can communicate securely with remote agents, receive telemetry, and manage connected systems.
+
+**Core concepts**
+- Centralized Commander and distributed Scout architecture
+- Go-based backend development
+- WebSocket-based communication
+- Mutual TLS (mTLS) and certificate-based trust
+- PostgreSQL-backed data management
+- Authentication, authorization, and secure communication design
+
+[![Repository](https://img.shields.io/badge/Explore%20Repository-Sentinel%20System-167DAD?style=flat-square&logo=github)](https://github.com/cagrisaltik/sentinel-system)
+
+### 🌐 Portfolio & Personal Website
+
+**A central hub for projects, development, and technical work.**
+
+My personal portfolio brings together selected projects, technical interests, and ongoing development work, with a focus on modern web technologies and a clean, professional presentation.
+
+[![Repository](https://img.shields.io/badge/Explore%20Repository-Portfolio-34495E?style=flat-square&logo=github)](https://github.com/cagrisaltik/portfolio)
+
+### 🔬 Security Labs & Technical Experiments
+
+I use hands-on labs and practical experiments to explore security concepts, investigate system behavior, and improve my technical problem-solving skills.
+
+Areas of exploration include:
+
+- Capture the Flag (CTF) challenges and security labs
+- Linux security and command-line tooling
+- Networking, protocols, and troubleshooting
+- Binary analysis and reverse engineering fundamentals
+- Automation and security-oriented utilities
+
+Explore my public repositories for current projects, experiments, and implementations.
+
+[![All Repositories](https://img.shields.io/badge/View%20All%20Repositories-181717?style=flat-square&logo=github)](https://github.com/cagrisaltik?tab=repositories)
+
+## `$ cat tech-stack.txt`
+
+### Languages & Backend
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+
+### Databases & Communication
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-167DAD?style=flat-square)
+
+### Operating Systems & Infrastructure
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+### Security & Networking
+
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![TLS](https://img.shields.io/badge/TLS%20%2F%20mTLS-167DAD?style=flat-square&logo=letsencrypt&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-34495E?style=flat-square&logo=cisco&logoColor=white)
+![Security](https://img.shields.io/badge/Secure%20Development-243447?style=flat-square&logo=owasp&logoColor=white)
+
+> This stack reflects technologies I work with or explore through my projects. My focus is on practical implementation, understanding fundamentals, and continuously improving my engineering skills.
+
+## `$ cat current-focus.md`
+
+I'm currently interested in developing my skills across several complementary areas:
+
+- **Secure backend engineering** — authentication, authorization, data integrity, and secure API design.
+- **Distributed systems** — agent architectures, persistent connections, telemetry, and centralized management.
+- **Infrastructure security** — Linux administration, network architecture, TLS, certificates, and secure remote access.
+- **Practical cybersecurity** — security labs, vulnerability analysis, binary investigation, and defensive techniques.
+- **Developer tooling** — building focused utilities that simplify technical workflows.
+
+These areas reflect ongoing learning and development rather than a claim of expertise in every listed domain.
+
+## `$ git stats`
+
+<div align="center">
+
+[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cagrisaltik&theme=github_dark)](https://github.com/cagrisaltik)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cagrisaltik&layout=compact&theme=github_dark&hide_border=true&langs_count=8)](https://github.com/cagrisaltik?tab=repositories)
+
+</div>
+
+*Statistics and language summaries are generated by third-party services and may not reflect all development activity.*
+
+## `$ cat philosophy.txt`
+
+```text
+Understand the system.
+Question assumptions.
+Build with purpose.
+Secure by design.
+Learn continuously.
+```
+
+I believe good engineering starts with understanding the problem, continues through thoughtful implementation, and improves through testing, feedback, and iteration.
+
+I'm especially interested in projects where software engineering and security complement each other.
+
+## `$ connect`
+
+Interested in cybersecurity, backend development, infrastructure, or collaborative technical projects?
+
+Explore my repositories, follow my progress, and feel free to connect through GitHub.
+
+<div align="center">
+
+**Build. Secure. Improve. Repeat.**
+
+[![GitHub Profile](https://img.shields.io/badge/Visit%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cagrisaltik)
+
+</div>
