@@ -49,13 +49,6 @@ The project explores how a central control plane can communicate securely with r
 
 [![Repository](https://img.shields.io/badge/Explore%20Repository-Sentinel%20System-167DAD?style=flat-square&logo=github)](https://github.com/cagrisaltik/sentinel-system)
 
-### 🌐 Portfolio & Personal Website
-
-**A central hub for projects, development, and technical work.**
-
-My personal portfolio brings together selected projects, technical interests, and ongoing development work, with a focus on modern web technologies and a clean, professional presentation.
-
-[![Repository](https://img.shields.io/badge/Explore%20Repository-Portfolio-34495E?style=flat-square&logo=github)](https://github.com/cagrisaltik/portfolio)
 
 ### 🔬 Security Labs & Technical Experiments
 
@@ -69,7 +62,7 @@ Areas of exploration include:
 - Binary analysis and reverse engineering fundamentals
 - Automation and security-oriented utilities
 
-Explore my public repositories for current projects, experiments, and implementations.
+Explore my security research, CTF write-ups, and technical investigations.
 
 [![All Repositories](https://img.shields.io/badge/View%20All%20Repositories-181717?style=flat-square&logo=github)](https://github.com/cagrisaltik?tab=repositories)
 
@@ -155,6 +148,6 @@ Explore my repositories, follow my progress, and feel free to connect through Gi
 
 **Build. Secure. Improve. Repeat.**
 
-[![GitHub Profile](https://img.shields.io/badge/Visit%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cagrisaltik)
+[![GitHub Profile](https://img.shields.io/badge/Visit%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://cagrisaltik.com.tr)
 
 </div>
